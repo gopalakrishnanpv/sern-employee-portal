@@ -1,0 +1,34 @@
+{
+  "development": {
+    "database": "EmployeePortal",
+    "server": "localhost",
+    "dialect": "mssql",
+    "username": "sa",
+    "password": "sa",
+    "options": {
+      "port": 1433,
+      "trustServerCertificate": true
+    },
+    "authentication": {
+      "type": "default",
+      "options": {
+        "userName": "sa",
+        "password": "sa"
+      }
+    }
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}

@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Software Engineer",
+        "departmentId": 1
+    },
+    {
+        "id": 2,
+        "name": "Software Engineer - Professional",
+        "departmentId": 1
+    },
+    {
+        "id": 3,
+        "name": "Manager",
+        "departmentId": 2
+    }
+]

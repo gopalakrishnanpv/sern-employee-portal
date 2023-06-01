@@ -1,0 +1,22 @@
+[
+    {
+        "Id": 1,
+        "SerialNumber": "BGWQL123",
+        "Make": "HP",
+        "Model": "HP Pavillion G6",
+        "WarrantyStatus": "Active",
+        "AssetStatus": "Working",
+        "PurchaseDate": "12-12-2022",
+        "InvoiceNumber": "123456",
+        "WarrantyExpirationDate": "12-12-2023",
+        "AssetType": "Laptop",
+        "HostName": "IN11W-PANCHA-1L",
+        "RequestNumber": "REQ12345",
+        "AssignedTo": "Gopalakrishnan Panchavarnam",
+        "Age": "2 Years 11 Months 15 Days",
+        "OperatingSystem": "Windows 10",
+        "Processor": "i7 11th Gen",
+        "ClockSpeed": "2.80GHz",
+        "RAM": "32 GB"
+    }
+]

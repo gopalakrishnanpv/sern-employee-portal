@@ -1,0 +1,11 @@
+import React from 'react';
+import { Outlet } from 'react-router-dom';
+function Asset() {
+    return (
+        <div className='w-full'>
+            <Outlet />
+        </div >
+    )
+}
+
+export default Asset
